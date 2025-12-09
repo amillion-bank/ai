@@ -14,7 +14,7 @@
 		"type-check": "tsc --noEmit"
 	},
 	"dependencies": {
-		"@modelcontextprotocol/sdk": "1.17.1",
+		"@modelcontextprotocol/sdk": "1.24.0",
 		"@stytch/react": "^19.7.0",
 		"@stytch/vanilla-js": "^5.29.0",
 		"agents": "^0.0.109",
