@@ -11,7 +11,7 @@
 	"keywords": [],
 	"author": "",
 	"dependencies": {
-		"@modelcontextprotocol/sdk": "1.17.1",
+		"@modelcontextprotocol/sdk": "1.25.1",
 		"agents": "^0.0.109",
 		"nanoid": "^5.1.5",
 		"react": "^19.1.1",
